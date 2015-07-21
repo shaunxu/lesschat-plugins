@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("msbuild-lesschat-sample")]
+[assembly: AssemblyTitle("ConsoleApplication3")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("IGT Technology Development (Beijing) Co., Ltd.")]
-[assembly: AssemblyProduct("msbuild-lesschat-sample")]
+[assembly: AssemblyProduct("ConsoleApplication3")]
 [assembly: AssemblyCopyright("Copyright © IGT Technology Development (Beijing) Co., Ltd. 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("50a69f60-f104-4081-aab4-a8e3281efb51")]
+[assembly: Guid("48924ca8-e74c-42fc-b7fa-4abbaa0b225d")]
 
 // Version information for an assembly consists of the following four values:
 //

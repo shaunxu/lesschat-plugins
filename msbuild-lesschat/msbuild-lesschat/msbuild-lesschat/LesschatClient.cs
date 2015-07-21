@@ -65,5 +65,10 @@ namespace msbuild_lesschat
             var json = JsonConvert.SerializeObject(message, Formatting.None, _settings);
             return await SendAsycImpl(json);
         }
+
+        public LesschatIncomingMessageResponse Send(LesschatIncomingMessage message)
+        {
+            return SendAsync(message).Result;
+        }
     }
 }

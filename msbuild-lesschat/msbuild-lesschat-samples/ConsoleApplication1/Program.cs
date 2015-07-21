@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace msbuild_lesschat_sample
+namespace ConsoleApplication1
 {
-    public class Class1
+    class Program
     {
-        void A()
+        static void Main(string[] args)
         {
-            int a;
-            
         }
     }
 }

@@ -72,5 +72,16 @@ namespace msbuild_lesschat
                 Fields = new List<LesschatIncomingMessageAttachmentField>();
             }
         }
+
+        public static class LesschatIncomingMessageAttachmentColors
+        {
+            public static readonly string Error = "#ff0000";
+
+            public static readonly string Warning = "#ffff00";
+
+            public static readonly string Message = "#cccccc";
+
+            public static readonly string Success = "#00ff00";
+        }
     }
 }
